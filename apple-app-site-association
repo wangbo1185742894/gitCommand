@@ -1,0 +1,15 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "FN2V63AD2J.com.tencentyun.cosbrowser",
+                "paths": [ "/wangbo1185742894/gitCommand"]
+            },
+            {
+                "appID": "HKB8WPFBR9.com.tencentyun.cosbrowser",
+                "paths": [ "/wangbo1185742894/gitCommand"]
+            }
+        ]
+    }
+}
